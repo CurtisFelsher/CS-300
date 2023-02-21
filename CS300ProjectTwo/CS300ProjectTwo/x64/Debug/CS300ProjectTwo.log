@@ -1,0 +1,5 @@
+﻿  CS300ProjectTwo.cpp
+C:\Users\bruta\source\repos\CS300ProjectTwo\CS300ProjectTwo\CS300ProjectTwo.cpp(250,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bruta\source\repos\CS300ProjectTwo\CS300ProjectTwo\CS300ProjectTwo.cpp(255,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bruta\source\repos\CS300ProjectTwo\CS300ProjectTwo\CS300ProjectTwo.cpp(256,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CS300ProjectTwo.vcxproj -> C:\Users\bruta\source\repos\CS300ProjectTwo\x64\Debug\CS300ProjectTwo.exe
